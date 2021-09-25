@@ -1,0 +1,12 @@
+F:\univrsity content\proga\labolatorka2\task6\task6\bin\Debug\netcoreapp3.1\task6.exe
+F:\univrsity content\proga\labolatorka2\task6\task6\bin\Debug\netcoreapp3.1\task6.deps.json
+F:\univrsity content\proga\labolatorka2\task6\task6\bin\Debug\netcoreapp3.1\task6.runtimeconfig.json
+F:\univrsity content\proga\labolatorka2\task6\task6\bin\Debug\netcoreapp3.1\task6.runtimeconfig.dev.json
+F:\univrsity content\proga\labolatorka2\task6\task6\bin\Debug\netcoreapp3.1\task6.dll
+F:\univrsity content\proga\labolatorka2\task6\task6\bin\Debug\netcoreapp3.1\task6.pdb
+F:\univrsity content\proga\labolatorka2\task6\task6\obj\Debug\netcoreapp3.1\task6.AssemblyInfoInputs.cache
+F:\univrsity content\proga\labolatorka2\task6\task6\obj\Debug\netcoreapp3.1\task6.AssemblyInfo.cs
+F:\univrsity content\proga\labolatorka2\task6\task6\obj\Debug\netcoreapp3.1\task6.csproj.CoreCompileInputs.cache
+F:\univrsity content\proga\labolatorka2\task6\task6\obj\Debug\netcoreapp3.1\task6.dll
+F:\univrsity content\proga\labolatorka2\task6\task6\obj\Debug\netcoreapp3.1\task6.pdb
+F:\univrsity content\proga\labolatorka2\task6\task6\obj\Debug\netcoreapp3.1\task6.genruntimeconfig.cache
