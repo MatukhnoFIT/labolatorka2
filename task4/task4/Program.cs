@@ -17,12 +17,13 @@ namespace task4
             Point Q = new Point(0, 0, "point1");
             Point W = new Point(0, 2, "point2");
             Point E = new Point(2, 2, "point3");
-            Point R = new Point(0, 2, "point4");
 
-            Figure figure = new Figure(Q, W, E, R);
+            Figure figure = new Figure(Q, W, E);
 
             Console.WriteLine($"Фiгура: {figure.figurename}");
             figure.PerimeterCalculator();
+
+            Console.Read();
 
 
         }
