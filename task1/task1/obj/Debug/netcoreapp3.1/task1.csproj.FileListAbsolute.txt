@@ -1,0 +1,13 @@
+F:\univrsity content\proga\labolatorka2\task1\task1\bin\Debug\netcoreapp3.1\task1.exe
+F:\univrsity content\proga\labolatorka2\task1\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+F:\univrsity content\proga\labolatorka2\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+F:\univrsity content\proga\labolatorka2\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+F:\univrsity content\proga\labolatorka2\task1\task1\bin\Debug\netcoreapp3.1\task1.dll
+F:\univrsity content\proga\labolatorka2\task1\task1\bin\Debug\netcoreapp3.1\task1.pdb
+F:\univrsity content\proga\labolatorka2\task1\task1\obj\Debug\netcoreapp3.1\task1.csprojAssemblyReference.cache
+F:\univrsity content\proga\labolatorka2\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+F:\univrsity content\proga\labolatorka2\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+F:\univrsity content\proga\labolatorka2\task1\task1\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+F:\univrsity content\proga\labolatorka2\task1\task1\obj\Debug\netcoreapp3.1\task1.dll
+F:\univrsity content\proga\labolatorka2\task1\task1\obj\Debug\netcoreapp3.1\task1.pdb
+F:\univrsity content\proga\labolatorka2\task1\task1\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache
